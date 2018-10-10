@@ -1,0 +1,1 @@
+SELECT * from users WHERE first_name = $1;
